@@ -1,5 +1,7 @@
 JavaScript port of [HtmlDiff.NET](https://github.com/Rohland/htmldiff.net)
 
+Typescript port
+
 ## Installation
 
 `npm install html-diff-ts --save`
